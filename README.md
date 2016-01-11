@@ -1,4 +1,3 @@
 # gitTraining
 
-
-Hello this testing txt.
+changes for test branch
